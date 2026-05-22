@@ -1,8 +1,14 @@
-# SenTasks 📝
+# SenTasks 
 
 **SenTasks** est une application mobile de gestion de tâches (Kanban) intuitive et élégante, conçue pour simplifier votre productivité quotidienne. Elle allie la souplesse du web à l'ergonomie mobile pour offrir une expérience utilisateur fluide et sans friction.
 
-## 🚀 Fonctionnalités principales
+##  Fonctionnalités principales
+# Membre du projet :
+- **Yacine GUEYE
+- **Mariama DIOUM 
+- **Assietou NDIAYE
+
+##  Fonctionnalités principales
 
 - **Interface Kanban intuitive** : Visualisez votre flux de travail en trois colonnes : *À faire*, *En cours*, et *Terminé*.
 - **Drag & Drop Tactile** : Déplacez vos tâches d'une section à l'autre par simple glisser-déposer avec le doigt (via SortableJS).
@@ -16,7 +22,7 @@
     - Barre de recherche en temps réel.
     - Bouton Reset avec confirmation de sécurité.
 
-## 🛠️ Stack Technique
+##  Stack Technique
 
 - **Frontend** : HTML5, CSS3 (Flexbox, Variables CSS, Animations).
 - **Logique** : JavaScript (ES6+), jQuery (pour les événements mobiles).
@@ -25,7 +31,7 @@
     - **jQuery Mobile** : Pour la structure de navigation hybride.
 - **Framework Mobile** : Cordova (permet de compiler l'application pour Android et iOS).
 
-## 📦 Installation et Lancement
+##  Installation et Lancement
 
 1. **Cloner le dépôt** :
    ```bash
@@ -40,11 +46,3 @@
    cordova platform add android
    cordova run android
    ```
-
-## 🎓 Contexte du Projet
-
-Développé dans le cadre de la formation **M2GL** (Master 2 Génie Logiciel).
-Date : **Mai 2026**
-
----
-Développé avec ❤️ pour une gestion de tâches élégante et efficace.
