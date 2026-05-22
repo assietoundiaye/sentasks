@@ -4,9 +4,9 @@
 
 ##  Fonctionnalités principales
 # Membre du projet :
-- **Yacine GUEYE
-- **Mariama DIOUM 
-- **Assietou NDIAYE
+- Mariama DIOUM 
+- Yacine GUEYE
+- Assietou NDIAYE
 
 ##  Fonctionnalités principales
 
